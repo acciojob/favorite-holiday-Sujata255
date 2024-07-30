@@ -1,24 +1,11 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-}
-
 h1 {
     text-align: center;
 }
 
 p {
-    text-align: justify;
-}
-
-h2 {
-    margin-top: 30px;
+    text-align: center;
 }
 
 ol, ul {
     margin-left: 30px;
-}
-
-li {
-    margin-bottom: 10px;
 }
